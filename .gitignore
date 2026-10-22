@@ -1,0 +1,8 @@
+ZenNotes.exe
+bin/
+obj/
+*.user
+*.suo
+.vs/
+publish.py
+*.py
