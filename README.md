@@ -1,3 +1,31 @@
+# 📝 Zen Notes - Roll-Up Desktop Sticky Notes & To-Do Cards
+
+**Developer:** [Serkan ŞENTÜRK](https://github.com/836982756578)  
+**Copyright:** © 2026 Serkan ŞENTÜRK. All Rights Reserved.  
+**License:** MIT  
+**Platform:** Windows 10 / 11 (64-bit & 32-bit Portable)  
+
+> Floating desktop sticky notes and checklist cards that can be pinned, color-coded, and rolled up to the screen edge.
+
+---
+
+## 🇬🇧 English Documentation
+
+### ✨ Key Features
+* 📌 **Always on Top & Roll-Up:** Double click or drag to screen edge to collapse into a slim bar.
+* ✅ **Checklists & Rich Text:** Manage daily to-do tasks with strike-through completion.
+* 🎨 **Minimalist Themes:** Multiple dark and light pastel color palettes.
+* 💾 **Auto-Save:** Instant local file storage with zero cloud dependencies.
+
+### 📥 Download & Usage
+1. Download the latest portable .exe from the [Releases](https://github.com/836982756578/Zen-Notes/releases) section.
+2. Run directly — no installer or administrative privileges required.
+3. Enjoy an ultra-lightweight, native Windows experience!
+
+---
+
+## 🇹🇷 Türkçe Açıklama
+
 # ☯️ Zen Notes
 
 **Taşınabilir, Ultra Hafif Kenara Katlanabilir Akıllı Masaüstü Notları**  
